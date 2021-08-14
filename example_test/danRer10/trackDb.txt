@@ -18,8 +18,8 @@ windowingFunction maximum
 		longLabel Cont.10dpi.N1.ctss.plus
 		parent Cont.10dpi.N1
 		type bigWig
-		color 77,187,213,1
-		altColor 77,187,213,1
+		color 77,187,213
+		altColor 77,187,213
 
 		track Cont.10dpi.N1.minus
 		bigDataUrl https://raw.githubusercontent.com/arvin-cfs/KIT_Regeneration/main/Cont_10dpi_N1.ctss.minus.bw
@@ -27,5 +27,5 @@ windowingFunction maximum
 		longLabel Cont.10dpi.N1.ctss.minus
 		parent Cont.10dpi.N1
 		type bigWig
-		color 230,75,53,1
-		altColor 230,75,53,1
+		color 230,75,53
+		altColor 230,75,53
