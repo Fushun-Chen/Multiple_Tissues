@@ -1,0 +1,31 @@
+track Cont.10dpi.N1
+type bigWig
+container multiWig
+shortLabel Cont.10dpi.N1
+longLabel Cont.10dpi.N1.ctss
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+
+		track Cont.10dpi.N1.plus
+		bigDataUrl https://raw.githubusercontent.com/arvin-cfs/KIT_Regeneration/main/Cont_10dpi_N1.ctss.plus.bw
+		shortLabel Cont.10dpi.N1.plus
+		longLabel Cont.10dpi.N1.ctss.plus
+		parent Cont.10dpi.N1
+		type bigWig
+		color 77,187,213,1
+		altColor 77,187,213,1
+
+		track Cont.10dpi.N1.minus
+		bigDataUrl https://raw.githubusercontent.com/arvin-cfs/KIT_Regeneration/main/Cont_10dpi_N1.ctss.minus.bw
+		shortLabel Cont.10dpi.N1.minus
+		longLabel Cont.10dpi.N1.ctss.minus
+		parent Cont.10dpi.N1
+		type bigWig
+		color 230,75,53,1
+		altColor 230,75,53,1
