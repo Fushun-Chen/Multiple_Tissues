@@ -26,6 +26,7 @@ windowingFunction maximum
 		shortLabel Cont.10dpi.N1.minus
 		longLabel Cont.10dpi.N1.ctss.minus
 		parent Cont.10dpi.N1
+		negateValues on
 		type bigWig
 		color 230,75,53
 		altColor 230,75,53
