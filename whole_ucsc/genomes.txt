@@ -1,0 +1,2 @@
+genome danRer10
+trackDb danRer10/trackDb_W.txt
