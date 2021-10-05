@@ -1,0 +1,600 @@
+# Cont 1 dpi W1
+track Cont.1dpi.W1.plus
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/arvin-cfs/KIT_Regeneration/main/STAR_whole/bigwig/Cont_1dpi_W1.ctss.plus.bw
+shortLabel Cont.1dpi.W1.plus
+longLabel Cont.1dpi.W1.ctss.plus
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+color 77,187,213
+altColor 77,187,213
+
+track Cont.1dpi.W1.minus
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/arvin-cfs/KIT_Regeneration/main/STAR_whole/bigwig/Cont_1dpi_W1.ctss.minus.bw
+shortLabel Cont.1dpi.W1.minus
+longLabel Cont.1dpi.W1.ctss.minus
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+color 230,75,53
+altColor 230,75,53
+
+# Cont 1 dpi W2
+track Cont.1dpi.W2.plus
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/arvin-cfs/KIT_Regeneration/main/STAR_whole/bigwig/Cont_1dpi_W2.ctss.plus.bw
+shortLabel Cont.1dpi.W2.plus
+longLabel Cont.1dpi.W2.ctss.plus
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+color 77,187,213
+altColor 77,187,213
+
+track Cont.1dpi.W2.minus
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/arvin-cfs/KIT_Regeneration/main/STAR_whole/bigwig/Cont_1dpi_W2.ctss.minus.bw
+shortLabel Cont.1dpi.W2.minus
+longLabel Cont.1dpi.W2.ctss.minus
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+color 230,75,53
+altColor 230,75,53
+
+# Cont 1 dpi W3
+track Cont.1dpi.W3.plus
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/arvin-cfs/KIT_Regeneration/main/STAR_whole/bigwig/Cont_1dpi_W3.ctss.plus.bw
+shortLabel Cont.1dpi.W3.plus
+longLabel Cont.1dpi.W3.ctss.plus
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+color 77,187,213
+altColor 77,187,213
+
+track Cont.1dpi.W3.minus
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/arvin-cfs/KIT_Regeneration/main/STAR_whole/bigwig/Cont_1dpi_W3.ctss.minus.bw
+shortLabel Cont.1dpi.W3.minus
+longLabel Cont.1dpi.W3.ctss.minus
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+color 230,75,53
+altColor 230,75,53
+
+
+# Cont 5 dpi W1
+track Cont.5dpi.W1.plus
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/arvin-cfs/KIT_Regeneration/main/STAR_whole/bigwig/Cont_5dpi_W1.ctss.plus.bw
+shortLabel Cont.5dpi.W1.plus
+longLabel Cont.5dpi.W1.ctss.plus
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+color 77,187,213
+altColor 77,187,213
+
+track Cont.5dpi.W1.minus
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/arvin-cfs/KIT_Regeneration/main/STAR_whole/bigwig/Cont_5dpi_W1.ctss.minus.bw
+shortLabel Cont.5dpi.W1.minus
+longLabel Cont.5dpi.W1.ctss.minus
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+color 230,75,53
+altColor 230,75,53
+
+# Cont 5 dpi W2
+track Cont.5dpi.W2.plus
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/arvin-cfs/KIT_Regeneration/main/STAR_whole/bigwig/Cont_5dpi_W2.ctss.plus.bw
+shortLabel Cont.5dpi.W2.plus
+longLabel Cont.5dpi.W2.ctss.plus
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+color 77,187,213
+altColor 77,187,213
+
+track Cont.5dpi.W2.minus
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/arvin-cfs/KIT_Regeneration/main/STAR_whole/bigwig/Cont_5dpi_W2.ctss.minus.bw
+shortLabel Cont.5dpi.W2.minus
+longLabel Cont.5dpi.W2.ctss.minus
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+color 230,75,53
+altColor 230,75,53
+
+# Cont 5 dpi W3
+track Cont.5dpi.W3.plus
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/arvin-cfs/KIT_Regeneration/main/STAR_whole/bigwig/Cont_5dpi_W3.ctss.plus.bw
+shortLabel Cont.5dpi.W3.plus
+longLabel Cont.5dpi.W3.ctss.plus
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+color 77,187,213
+altColor 77,187,213
+
+track Cont.5dpi.W3.minus
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/arvin-cfs/KIT_Regeneration/main/STAR_whole/bigwig/Cont_5dpi_W3.ctss.minus.bw
+shortLabel Cont.5dpi.W3.minus
+longLabel Cont.5dpi.W3.ctss.minus
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+color 230,75,53
+altColor 230,75,53
+
+
+# Cont 10 dpi W1
+track Cont.10dpi.W1.plus
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/arvin-cfs/KIT_Regeneration/main/STAR_whole/bigwig/Cont_10dpi_W1.ctss.plus.bw
+shortLabel Cont.10dpi.W1.plus
+longLabel Cont.10dpi.W1.ctss.plus
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+color 77,187,213
+altColor 77,187,213
+
+track Cont.10dpi.W1.minus
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/arvin-cfs/KIT_Regeneration/main/STAR_whole/bigwig/Cont_10dpi_W1.ctss.minus.bw
+shortLabel Cont.10dpi.W1.minus
+longLabel Cont.10dpi.W1.ctss.minus
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+color 230,75,53
+altColor 230,75,53
+
+# Cont 10 dpi W2
+track Cont.10dpi.W2.plus
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/arvin-cfs/KIT_Regeneration/main/STAR_whole/bigwig/Cont_10dpi_W2.ctss.plus.bw
+shortLabel Cont.10dpi.W2.plus
+longLabel Cont.10dpi.W2.ctss.plus
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+color 77,187,213
+altColor 77,187,213
+
+track Cont.10dpi.W2.minus
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/arvin-cfs/KIT_Regeneration/main/STAR_whole/bigwig/Cont_10dpi_W2.ctss.minus.bw
+shortLabel Cont.10dpi.W2.minus
+longLabel Cont.10dpi.W2.ctss.minus
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+color 230,75,53
+altColor 230,75,53
+
+# Cont 10 dpi W3
+track Cont.10dpi.W3.plus
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/arvin-cfs/KIT_Regeneration/main/STAR_whole/bigwig/Cont_10dpi_W3.ctss.plus.bw
+shortLabel Cont.10dpi.W3.plus
+longLabel Cont.10dpi.W3.ctss.plus
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+color 77,187,213
+altColor 77,187,213
+
+track Cont.10dpi.W3.minus
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/arvin-cfs/KIT_Regeneration/main/STAR_whole/bigwig/Cont_10dpi_W3.ctss.minus.bw
+shortLabel Cont.10dpi.W3.minus
+longLabel Cont.10dpi.W3.ctss.minus
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+color 230,75,53
+altColor 230,75,53
+
+
+#######################################################
+
+# Stab 1 dpi W1
+track Stab.1dpi.W1.plus
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/arvin-cfs/KIT_Regeneration/main/STAR_whole/bigwig/Stab_1dpi_W1.ctss.plus.bw
+shortLabel Stab.1dpi.W1.plus
+longLabel Stab.1dpi.W1.ctss.plus
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+color 77,187,213
+altColor 77,187,213
+
+track Stab.1dpi.W1.minus
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/arvin-cfs/KIT_Regeneration/main/STAR_whole/bigwig/Stab_1dpi_W1.ctss.minus.bw
+shortLabel Stab.1dpi.W1.minus
+longLabel Stab.1dpi.W1.ctss.minus
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+color 230,75,53
+altColor 230,75,53
+
+# Stab 1 dpi W2
+track Stab.1dpi.W2.plus
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/arvin-cfs/KIT_Regeneration/main/STAR_whole/bigwig/Stab_1dpi_W2.ctss.plus.bw
+shortLabel Stab.1dpi.W2.plus
+longLabel Stab.1dpi.W2.ctss.plus
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+color 77,187,213
+altColor 77,187,213
+
+track Stab.1dpi.W2.minus
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/arvin-cfs/KIT_Regeneration/main/STAR_whole/bigwig/Stab_1dpi_W2.ctss.minus.bw
+shortLabel Stab.1dpi.W2.minus
+longLabel Stab.1dpi.W2.ctss.minus
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+color 230,75,53
+altColor 230,75,53
+
+# Stab 1 dpi W3
+track Stab.1dpi.W3.plus
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/arvin-cfs/KIT_Regeneration/main/STAR_whole/bigwig/Stab_1dpi_W3.ctss.plus.bw
+shortLabel Stab.1dpi.W3.plus
+longLabel Stab.1dpi.W3.ctss.plus
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+color 77,187,213
+altColor 77,187,213
+
+track Stab.1dpi.W3.minus
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/arvin-cfs/KIT_Regeneration/main/STAR_whole/bigwig/Stab_1dpi_W3.ctss.minus.bw
+shortLabel Stab.1dpi.W3.minus
+longLabel Stab.1dpi.W3.ctss.minus
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+color 230,75,53
+altColor 230,75,53
+
+
+# Stab 5 dpi W1
+track Stab.5dpi.W1.plus
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/arvin-cfs/KIT_Regeneration/main/STAR_whole/bigwig/Stab_5dpi_W1.ctss.plus.bw
+shortLabel Stab.5dpi.W1.plus
+longLabel Stab.5dpi.W1.ctss.plus
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+color 77,187,213
+altColor 77,187,213
+
+track Stab.5dpi.W1.minus
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/arvin-cfs/KIT_Regeneration/main/STAR_whole/bigwig/Stab_5dpi_W1.ctss.minus.bw
+shortLabel Stab.5dpi.W1.minus
+longLabel Stab.5dpi.W1.ctss.minus
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+color 230,75,53
+altColor 230,75,53
+
+# Stab 5 dpi W2
+track Stab.5dpi.W2.plus
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/arvin-cfs/KIT_Regeneration/main/STAR_whole/bigwig/Stab_5dpi_W2.ctss.plus.bw
+shortLabel Stab.5dpi.W2.plus
+longLabel Stab.5dpi.W2.ctss.plus
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+color 77,187,213
+altColor 77,187,213
+
+track Stab.5dpi.W2.minus
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/arvin-cfs/KIT_Regeneration/main/STAR_whole/bigwig/Stab_5dpi_W2.ctss.minus.bw
+shortLabel Stab.5dpi.W2.minus
+longLabel Stab.5dpi.W2.ctss.minus
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+color 230,75,53
+altColor 230,75,53
+
+# Stab 5 dpi W3
+track Stab.5dpi.W3.plus
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/arvin-cfs/KIT_Regeneration/main/STAR_whole/bigwig/Stab_5dpi_W3.ctss.plus.bw
+shortLabel Stab.5dpi.W3.plus
+longLabel Stab.5dpi.W3.ctss.plus
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+color 77,187,213
+altColor 77,187,213
+
+track Stab.5dpi.W3.minus
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/arvin-cfs/KIT_Regeneration/main/STAR_whole/bigwig/Stab_5dpi_W3.ctss.minus.bw
+shortLabel Stab.5dpi.W3.minus
+longLabel Stab.5dpi.W3.ctss.minus
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+color 230,75,53
+altColor 230,75,53
+
+
+# Stab 10 dpi W1
+track Stab.10dpi.W1.plus
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/arvin-cfs/KIT_Regeneration/main/STAR_whole/bigwig/Stab_10dpi_W1.ctss.plus.bw
+shortLabel Stab.10dpi.W1.plus
+longLabel Stab.10dpi.W1.ctss.plus
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+color 77,187,213
+altColor 77,187,213
+
+track Stab.10dpi.W1.minus
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/arvin-cfs/KIT_Regeneration/main/STAR_whole/bigwig/Stab_10dpi_W1.ctss.minus.bw
+shortLabel Stab.10dpi.W1.minus
+longLabel Stab.10dpi.W1.ctss.minus
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+color 230,75,53
+altColor 230,75,53
+
+# Stab 10 dpi W2
+track Stab.10dpi.W2.plus
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/arvin-cfs/KIT_Regeneration/main/STAR_whole/bigwig/Stab_10dpi_W2.ctss.plus.bw
+shortLabel Stab.10dpi.W2.plus
+longLabel Stab.10dpi.W2.ctss.plus
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+color 77,187,213
+altColor 77,187,213
+
+track Stab.10dpi.W2.minus
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/arvin-cfs/KIT_Regeneration/main/STAR_whole/bigwig/Stab_10dpi_W2.ctss.minus.bw
+shortLabel Stab.10dpi.W2.minus
+longLabel Stab.10dpi.W2.ctss.minus
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+color 230,75,53
+altColor 230,75,53
+
+# Stab 10 dpi W3
+track Stab.10dpi.W3.plus
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/arvin-cfs/KIT_Regeneration/main/STAR_whole/bigwig/Stab_10dpi_W3.ctss.plus.bw
+shortLabel Stab.10dpi.W3.plus
+longLabel Stab.10dpi.W3.ctss.plus
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+color 77,187,213
+altColor 77,187,213
+
+track Stab.10dpi.W3.minus
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/arvin-cfs/KIT_Regeneration/main/STAR_whole/bigwig/Stab_10dpi_W3.ctss.minus.bw
+shortLabel Stab.10dpi.W3.minus
+longLabel Stab.10dpi.W3.ctss.minus
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+color 230,75,53
+altColor 230,75,53
