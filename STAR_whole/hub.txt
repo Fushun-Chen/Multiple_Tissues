@@ -1,0 +1,6 @@
+hub regeneration_1_5_10dpi_W
+shortLabel 1_5_10dpi_W
+longLabel regeneration_1_5_10dpi_W
+genomesFile genomes.txt
+email fushun.chen@kit.edu
+descriptionUrl hub.html
