@@ -1,0 +1,6 @@
+hub Regeneration_ATACseq
+shortLabel ATACseq
+longLabel ATACseq
+genomesFile genomes.txt
+email fushun.chen@kit.edu
+descriptionUrl hub.html
