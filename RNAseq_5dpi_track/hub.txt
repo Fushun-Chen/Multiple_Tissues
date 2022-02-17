@@ -1,0 +1,6 @@
+hub RNAseq_5dpi
+shortLabel RNAseq_5dpi
+longLabel RNAseq_5dpi
+genomesFile genomes.txt
+email fushun.chen@kit.edu
+descriptionUrl hub.html

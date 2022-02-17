@@ -1,0 +1,92 @@
+# 5dpi C1
+track 5dpi_C1
+type bigWig
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/RNAseq_5dpi_Norm/C1.hisat.sam.bam.norm.bw
+shortLabel 5dpi.C1
+longLabel 5dpi.C1_RNAseq
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+
+# 5dpi C2
+track 5dpi_C2
+type bigWig
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/RNAseq_5dpi_Norm/C2.hisat.sam.bam.norm.bw
+shortLabel 5dpi.C2
+longLabel 5dpi.C2_RNAseq
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+
+
+# 5dpi C3
+track 5dpi_C3
+type bigWig
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/RNAseq_5dpi_Norm/C3.hisat.sam.bam.norm.bw
+shortLabel 5dpi.C3
+longLabel 5dpi.C3_RNAseq
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+
+# 5dpi S1
+track 5dpi_S1
+type bigWig
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/RNAseq_5dpi_Norm/S1.hisat.sam.bam.norm.bw
+shortLabel 5dpi.S1
+longLabel 5dpi.S1_RNAseq
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+
+# 5dpi S2
+track 5dpi_S2
+type bigWig
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/RNAseq_5dpi_Norm/S2.hisat.sam.bam.norm.bw
+shortLabel 5dpi.S2
+longLabel 5dpi.S2_RNAseq
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+
+
+# 5dpi S3
+track 5dpi_S3
+type bigWig
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/RNAseq_5dpi_Norm/S3.hisat.sam.bam.norm.bw
+shortLabel 5dpi.S3
+longLabel 5dpi.S3_RNAseq
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+
