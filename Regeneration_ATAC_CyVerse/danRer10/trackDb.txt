@@ -1,0 +1,179 @@
+# stab 1 dpi R1
+track stab.1dpi.R1
+type bigWig
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Regeneration_ATACseq/stab_1dpi_R1.mLb.clN.bigWig
+shortLabel stab.1dpi.R1
+longLabel stab.1dpi.R1
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+
+# stab 1 dpi R2
+track stab.1dpi.R2
+type bigWig
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Regeneration_ATACseq/stab_1dpi_R2.mLb.clN.bigWig
+shortLabel stab.1dpi.R2
+longLabel stab.1dpi.R2
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+
+# control 1 dpi R1
+track control.1dpi.R1
+type bigWig
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Regeneration_ATACseq/control_1dpi_R1.mLb.clN.bigWig
+shortLabel control.1dpi.R1
+longLabel control.1dpi.R1
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+
+# control 1 dpi R2
+track control.1dpi.R2
+type bigWig
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Regeneration_ATACseq/control_1dpi_R2.mLb.clN.bigWig
+shortLabel control.1dpi.R2
+longLabel control.1dpi.R2
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+
+# stab 5 dpi R1
+track stab.5dpi.R1
+type bigWig
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Regeneration_ATACseq/stab_5dpi_R1.mLb.clN.bigWig
+shortLabel stab.5dpi.R1
+longLabel stab.5dpi.R1
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+
+# stab 5 dpi R2
+track stab.5dpi.R2
+type bigWig
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Regeneration_ATACseq/stab_5dpi_R2.mLb.clN.bigWig
+shortLabel stab.5dpi.R2
+longLabel stab.5dpi.R2
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+
+# control 5 dpi R1
+track control.5dpi.R1
+type bigWig
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Regeneration_ATACseq/control_5dpi_R1.mLb.clN.bigWig
+shortLabel control.5dpi.R1
+longLabel control.5dpi.R1
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+
+# control 5 dpi R2
+track control.5dpi.R2
+type bigWig
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Regeneration_ATACseq/control_5dpi_R2.mLb.clN.bigWig
+shortLabel control.5dpi.R2
+longLabel control.5dpi.R2
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+
+# stab 10 dpi R1
+track stab.10dpi.R1
+type bigWig
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Regeneration_ATACseq/stab_10dpi_R1.mLb.clN.bigWig
+shortLabel stab.10dpi.R1
+longLabel stab.10dpi.R1
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+
+# stab 10 dpi R2
+track stab.10dpi.R2
+type bigWig
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Regeneration_ATACseq/stab_10dpi_R2.mLb.clN.bigWig
+shortLabel stab.10dpi.R2
+longLabel stab.10dpi.R2
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+
+# control 10 dpi R1
+track control.10dpi.R1
+type bigWig
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Regeneration_ATACseq/control_10dpi_R1.mLb.clN.bigWig
+shortLabel control.10dpi.R1
+longLabel control.10dpi.R1
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
+
+# control 10 dpi R2
+track control.10dpi.R2
+type bigWig
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Regeneration_ATACseq/control_10dpi_R2.mLb.clN.bigWig
+shortLabel control.10dpi.R2
+longLabel control.10dpi.R2
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+yLineOnOff on
+alwaysZero on
+autoScale on
+configurable on
+windowingFunction maximum
