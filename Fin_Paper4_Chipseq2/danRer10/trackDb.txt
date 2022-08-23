@@ -1,9 +1,9 @@
-# H3K27ac_0dpa_R1
-track H3K27ac_0dpa_R1
+# Fin_H3K27ac_0dpa_R1
+track Fin_H3K27ac_0dpa_R1
 type bigWig
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Multiple_Regeneration/Fin_Paper4_Chipseq2/H3K27ac_0dpa_R1_zebrafish.bam.rpkm.bw
-shortLabel H3K27ac_0dpa_R1
-longLabel H3K27ac_0dpa_R1
+shortLabel Fin_H3K27ac_0dpa_R1
+longLabel Fin_H3K27ac_0dpa_R1
 visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
@@ -13,12 +13,12 @@ autoScale on
 configurable on
 windowingFunction maximum
 
-# H3K27ac_0dpa_R2
-track H3K27ac_0dpa_R2
+# Fin_H3K27ac_0dpa_R2
+track Fin_H3K27ac_0dpa_R2
 type bigWig
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Multiple_Regeneration/Fin_Paper4_Chipseq2/H3K27ac_0dpa_R2_zebrafish.bam.rpkm.bw
-shortLabel H3K27ac_0dpa_R2
-longLabel H3K27ac_0dpa_R2
+shortLabel Fin_H3K27ac_0dpa_R2
+longLabel Fin_H3K27ac_0dpa_R2
 visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
@@ -28,12 +28,12 @@ autoScale on
 configurable on
 windowingFunction maximum
 
-# H3K27ac_1dpa_R1
-track H3K27ac_1dpa_R1
+# Fin_H3K27ac_1dpa_R1
+track Fin_H3K27ac_1dpa_R1
 type bigWig
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Multiple_Regeneration/Fin_Paper4_Chipseq2/H3K27ac_1dpa_R1_zebrafish.bam.rpkm.bw
-shortLabel H3K27ac_1dpa_R1
-longLabel H3K27ac_1dpa_R1
+shortLabel Fin_H3K27ac_1dpa_R1
+longLabel Fin_H3K27ac_1dpa_R1
 visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
@@ -43,12 +43,12 @@ autoScale on
 configurable on
 windowingFunction maximum
 
-# H3K27ac_1dpa_R2
-track H3K27ac_1dpa_R2
+# Fin_H3K27ac_1dpa_R2
+track Fin_H3K27ac_1dpa_R2
 type bigWig
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Multiple_Regeneration/Fin_Paper4_Chipseq2/H3K27ac_1dpa_R2_zebrafish.bam.rpkm.bw
-shortLabel H3K27ac_1dpa_R2
-longLabel H3K27ac_1dpa_R2
+shortLabel Fin_H3K27ac_1dpa_R2
+longLabel Fin_H3K27ac_1dpa_R2
 visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
@@ -58,12 +58,12 @@ autoScale on
 configurable on
 windowingFunction maximum
 
-# H3K4me3_0dpa_R1
-track H3K4me3_0dpa_R1
+# Fin_H3K4me3_0dpa_R1
+track Fin_H3K4me3_0dpa_R1
 type bigWig
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Multiple_Regeneration/Fin_Paper4_Chipseq2/H3K4me3_0dpa_R1_zebrafish.bam.rpkm.bw
-shortLabel H3K4me3_0dpa_R1
-longLabel H3K4me3_0dpa_R1
+shortLabel Fin_H3K4me3_0dpa_R1
+longLabel Fin_H3K4me3_0dpa_R1
 visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
@@ -73,12 +73,12 @@ autoScale on
 configurable on
 windowingFunction maximum
 
-# H3K4me3_0dpa_R2
-track H3K4me3_0dpa_R2
+# Fin_H3K4me3_0dpa_R2
+track Fin_H3K4me3_0dpa_R2
 type bigWig
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Multiple_Regeneration/Fin_Paper4_Chipseq2/H3K4me3_0dpa_R2_zebrafish.bam.rpkm.bw
-shortLabel H3K4me3_0dpa_R2
-longLabel H3K4me3_0dpa_R2
+shortLabel Fin_H3K4me3_0dpa_R2
+longLabel Fin_H3K4me3_0dpa_R2
 visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
@@ -88,12 +88,12 @@ autoScale on
 configurable on
 windowingFunction maximum
 
-# H3K4me3_1dpa_R1
-track H3K4me3_1dpa_R1
+# Fin_H3K4me3_1dpa_R1
+track Fin_H3K4me3_1dpa_R1
 type bigWig
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Multiple_Regeneration/Fin_Paper4_Chipseq2/H3K4me3_1dpa_R1_zebrafish.bam.rpkm.bw
-shortLabel H3K4me3_1dpa_R1
-longLabel H3K4me3_1dpa_R1
+shortLabel Fin_H3K4me3_1dpa_R1
+longLabel Fin_H3K4me3_1dpa_R1
 visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
@@ -103,12 +103,12 @@ autoScale on
 configurable on
 windowingFunction maximum
 
-# H3K4me3_1dpa_R2
-track H3K4me3_1dpa_R2
+# Fin_H3K4me3_1dpa_R2
+track Fin_H3K4me3_1dpa_R2
 type bigWig
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Multiple_Regeneration/Fin_Paper4_Chipseq2/H3K4me3_1dpa_R2_zebrafish.bam.rpkm.bw
-shortLabel H3K4me3_1dpa_R2
-longLabel H3K4me3_1dpa_R2
+shortLabel Fin_H3K4me3_1dpa_R2
+longLabel Fin_H3K4me3_1dpa_R2
 visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
