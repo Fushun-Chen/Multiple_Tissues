@@ -1,6 +1,6 @@
 hub Fin_ATACseq_CyVerse
-shortLabel ATACseq
-longLabel ATACseq
+shortLabel Fin_ATACseq
+longLabel Fin_ATACseq
 genomesFile genomes.txt
 email fushun.chen@kit.edu
 descriptionUrl hub.html
