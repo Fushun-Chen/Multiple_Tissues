@@ -1,9 +1,9 @@
-# Amputation_3dpa_1
-track Amputation_3dpa_1
+# Heart_Amputation_3dpa_1
+track Heart_Amputation_3dpa_1
 type bigWig
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Multiple_Regeneration/Heart_ATACseq/Amputation_3dpa_1.bam.rpkm.bw
-shortLabel Amputation_3dpa_1
-longLabel Amputation_3dpa_1
+shortLabel Heart_Amputation_3dpa_1
+longLabel Heart_Amputation_3dpa_1
 visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
@@ -13,12 +13,12 @@ autoScale on
 configurable on
 windowingFunction maximum
 
-# Amputation_3dpa_2
-track Amputation_3dpa_2
+# Heart_Amputation_3dpa_2
+track Heart_Amputation_3dpa_2
 type bigWig
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Multiple_Regeneration/Heart_ATACseq/Amputation_3dpa_2.bam.rpkm.bw
-shortLabel Amputation_3dpa_2
-longLabel Amputation_3dpa_2
+shortLabel Heart_Amputation_3dpa_2
+longLabel Heart_Amputation_3dpa_2
 visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
@@ -28,12 +28,12 @@ autoScale on
 configurable on
 windowingFunction maximum
 
-# Amputation_3dpa_3
-track Amputation_3dpa_3
+# Heart_Amputation_3dpa_3
+track Heart_Amputation_3dpa_3
 type bigWig
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Multiple_Regeneration/Heart_ATACseq/Amputation_3dpa_3.bam.rpkm.bw
-shortLabel Amputation_3dpa_3
-longLabel Amputation_3dpa_3
+shortLabel Heart_Amputation_3dpa_3
+longLabel Heart_Amputation_3dpa_3
 visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
@@ -43,12 +43,12 @@ autoScale on
 configurable on
 windowingFunction maximum
 
-# Amputation_3dpa_4
-track Amputation_3dpa_4
+# Heart_Amputation_3dpa_4
+track Heart_Amputation_3dpa_4
 type bigWig
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Multiple_Regeneration/Heart_ATACseq/Amputation_3dpa_4.bam.rpkm.bw
-shortLabel Amputation_3dpa_4
-longLabel Amputation_3dpa_4
+shortLabel Heart_Amputation_3dpa_4
+longLabel Heart_Amputation_3dpa_4
 visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
@@ -58,12 +58,12 @@ autoScale on
 configurable on
 windowingFunction maximum
 
-# Amputation_7dpa_1
-track Amputation_7dpa_1
+# Heart_Amputation_7dpa_1
+track Heart_Amputation_7dpa_1
 type bigWig
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Multiple_Regeneration/Heart_ATACseq/Amputation_7dpa_1.bam.rpkm.bw
-shortLabel Amputation_7dpa_1
-longLabel Amputation_7dpa_1
+shortLabel Heart_Amputation_7dpa_1
+longLabel Heart_Amputation_7dpa_1
 visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
@@ -73,12 +73,12 @@ autoScale on
 configurable on
 windowingFunction maximum
 
-# Amputation_7dpa_2
-track Amputation_7dpa_2
+# Heart_Amputation_7dpa_2
+track Heart_Amputation_7dpa_2
 type bigWig
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Multiple_Regeneration/Heart_ATACseq/Amputation_7dpa_2.bam.rpkm.bw
-shortLabel Amputation_7dpa_2
-longLabel Amputation_7dpa_2
+shortLabel Heart_Amputation_7dpa_2
+longLabel Heart_Amputation_7dpa_2
 visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
@@ -88,12 +88,12 @@ autoScale on
 configurable on
 windowingFunction maximum
 
-# Amputation_7dpa_3
-track Amputation_7dpa_3
+# Heart_Amputation_7dpa_3
+track Heart_Amputation_7dpa_3
 type bigWig
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Multiple_Regeneration/Heart_ATACseq/Amputation_7dpa_3.bam.rpkm.bw
-shortLabel Amputation_7dpa_3
-longLabel Amputation_7dpa_3
+shortLabel Heart_Amputation_7dpa_3
+longLabel Heart_Amputation_7dpa_3
 visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
@@ -103,12 +103,12 @@ autoScale on
 configurable on
 windowingFunction maximum
 
-# Amputation_7dpa_4
-track Amputation_7dpa_4
+# Heart_Amputation_7dpa_4
+track Heart_Amputation_7dpa_4
 type bigWig
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Multiple_Regeneration/Heart_ATACseq/Amputation_7dpa_4.bam.rpkm.bw
-shortLabel Amputation_7dpa_4
-longLabel Amputation_7dpa_4
+shortLabel Heart_Amputation_7dpa_4
+longLabel Heart_Amputation_7dpa_4
 visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
@@ -118,12 +118,12 @@ autoScale on
 configurable on
 windowingFunction maximum
 
-# Uninjured_1
-track Uninjured_1
+# Heart_Uninjured_1
+track Heart_Uninjured_1
 type bigWig
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Multiple_Regeneration/Heart_ATACseq/Uninjured_1.bam.rpkm.bw
-shortLabel Uninjured_1
-longLabel Uninjured_1
+shortLabel Heart_Uninjured_1
+longLabel Heart_Uninjured_1
 visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
@@ -133,12 +133,12 @@ autoScale on
 configurable on
 windowingFunction maximum
 
-# Uninjured_2
-track Uninjured_2
+# Heart_Uninjured_2
+track Heart_Uninjured_2
 type bigWig
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Multiple_Regeneration/Heart_ATACseq/Uninjured_2.bam.rpkm.bw
-shortLabel Uninjured_2
-longLabel Uninjured_2
+shortLabel Heart_Uninjured_2
+longLabel Heart_Uninjured_2
 visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
@@ -148,12 +148,12 @@ autoScale on
 configurable on
 windowingFunction maximum
 
-# Uninjured_3
-track Uninjured_3
+# Heart_Uninjured_3
+track Heart_Uninjured_3
 type bigWig
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Multiple_Regeneration/Heart_ATACseq/Uninjured_3.bam.rpkm.bw
-shortLabel Uninjured_3
-longLabel Uninjured_3
+shortLabel Heart_Uninjured_3
+longLabel Heart_Uninjured_3
 visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
@@ -163,12 +163,12 @@ autoScale on
 configurable on
 windowingFunction maximum
 
-# Uninjured_4
-track Uninjured_4
+# Heart_Uninjured_4
+track Heart_Uninjured_4
 type bigWig
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Multiple_Regeneration/Heart_ATACseq/Uninjured_4.bam.rpkm.bw
-shortLabel Uninjured_4
-longLabel Uninjured_4
+shortLabel Heart_Uninjured_4
+longLabel Heart_Uninjured_4
 visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
@@ -177,4 +177,3 @@ alwaysZero on
 autoScale on
 configurable on
 windowingFunction maximum
-
