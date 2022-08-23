@@ -1,9 +1,9 @@
-# F_0dpa_uninjured_batch3_rep1
-track F_0dpa_uninjured_batch3_rep1
+# Fin_F_0dpa_uninjured_batch3_rep1
+track Fin_F_0dpa_uninjured_batch3_rep1
 type bigWig
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Multiple_Regeneration/Fin_Paper1_ATACseq/F_0dpa_uninjured_batch3_rep1.rpkm.bw
-shortLabel F_0dpa_uninjured_batch3_rep1
-longLabel F_0dpa_uninjured_batch3_rep1
+shortLabel Fin_F_0dpa_uninjured_batch3_rep1
+longLabel Fin_F_0dpa_uninjured_batch3_rep1
 visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
@@ -13,12 +13,12 @@ autoScale on
 configurable on
 windowingFunction maximum
 
-# F_0dpa_uninjured_batch3_rep2
-track F_0dpa_uninjured_batch3_rep2
+# Fin_F_0dpa_uninjured_batch3_rep2
+track Fin_F_0dpa_uninjured_batch3_rep2
 type bigWig
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Multiple_Regeneration/Fin_Paper1_ATACseq/F_0dpa_uninjured_batch3_rep2.rpkm.bw
-shortLabel F_0dpa_uninjured_batch3_rep2
-longLabel F_0dpa_uninjured_batch3_rep2
+shortLabel Fin_F_0dpa_uninjured_batch3_rep2
+longLabel Fin_F_0dpa_uninjured_batch3_rep2
 visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
@@ -28,12 +28,12 @@ autoScale on
 configurable on
 windowingFunction maximum
 
-# F_0dpa_uninjured_batch3_rep3
-track F_0dpa_uninjured_batch3_rep3
+# Fin_F_0dpa_uninjured_batch3_rep3
+track Fin_F_0dpa_uninjured_batch3_rep3
 type bigWig
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Multiple_Regeneration/Fin_Paper1_ATACseq/F_0dpa_uninjured_batch3_rep3.rpkm.bw
-shortLabel F_0dpa_uninjured_batch3_rep3
-longLabel F_0dpa_uninjured_batch3_rep3
+shortLabel Fin_F_0dpa_uninjured_batch3_rep3
+longLabel Fin_F_0dpa_uninjured_batch3_rep3
 visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
@@ -43,12 +43,12 @@ autoScale on
 configurable on
 windowingFunction maximum
 
-# F_4dpa_injured_batch3_rep1
-track F_4dpa_injured_batch3_rep1
+# Fin_F_4dpa_injured_batch3_rep1
+track Fin_F_4dpa_injured_batch3_rep1
 type bigWig
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Multiple_Regeneration/Fin_Paper1_ATACseq/F_4dpa_injured_batch3_rep1.rpkm.bw
-shortLabel F_4dpa_injured_batch3_rep1
-longLabel F_4dpa_injured_batch3_rep1
+shortLabel Fin_F_4dpa_injured_batch3_rep1
+longLabel Fin_F_4dpa_injured_batch3_rep1
 visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
@@ -58,12 +58,12 @@ autoScale on
 configurable on
 windowingFunction maximum
 
-# F_4dpa_injured_batch3_rep2
-track F_4dpa_injured_batch3_rep2
+# Fin_F_4dpa_injured_batch3_rep2
+track Fin_F_4dpa_injured_batch3_rep2
 type bigWig
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Multiple_Regeneration/Fin_Paper1_ATACseq/F_4dpa_injured_batch3_rep2.rpkm.bw
-shortLabel F_4dpa_injured_batch3_rep2
-longLabel F_4dpa_injured_batch3_rep2
+shortLabel Fin_F_4dpa_injured_batch3_rep2
+longLabel Fin_F_4dpa_injured_batch3_rep2
 visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
@@ -73,12 +73,12 @@ autoScale on
 configurable on
 windowingFunction maximum
 
-# F_4dpa_injured_batch3_rep3
-track F_4dpa_injured_batch3_rep3
+# Fin_F_4dpa_injured_batch3_rep3
+track Fin_F_4dpa_injured_batch3_rep3
 type bigWig
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Multiple_Regeneration/Fin_Paper1_ATACseq/F_4dpa_injured_batch3_rep3.rpkm.bw
-shortLabel F_4dpa_injured_batch3_rep3
-longLabel F_4dpa_injured_batch3_rep3
+shortLabel Fin_F_4dpa_injured_batch3_rep3
+longLabel Fin_F_4dpa_injured_batch3_rep3
 visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
@@ -89,12 +89,12 @@ configurable on
 windowingFunction maximum
 
 
-# W_0dpa_uninjured_batch1_rep1
-track W_0dpa_uninjured_batch1_rep1
+# Fin_W_0dpa_uninjured_batch1_rep1
+track Fin_W_0dpa_uninjured_batch1_rep1
 type bigWig
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Multiple_Regeneration/Fin_Paper1_ATACseq/W_0dpa_uninjured_batch1_rep1.rpkm.bw
-shortLabel W_0dpa_uninjured_batch1_rep1
-longLabel W_0dpa_uninjured_batch1_rep1
+shortLabel Fin_W_0dpa_uninjured_batch1_rep1
+longLabel Fin_W_0dpa_uninjured_batch1_rep1
 visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
@@ -104,12 +104,12 @@ autoScale on
 configurable on
 windowingFunction maximum
 
-# W_0dpa_uninjured_batch1_rep2
-track W_0dpa_uninjured_batch1_rep2
+# Fin_W_0dpa_uninjured_batch1_rep2
+track Fin_W_0dpa_uninjured_batch1_rep2
 type bigWig
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Multiple_Regeneration/Fin_Paper1_ATACseq/W_0dpa_uninjured_batch1_rep2.rpkm.bw
-shortLabel W_0dpa_uninjured_batch1_rep2
-longLabel W_0dpa_uninjured_batch1_rep2
+shortLabel Fin_W_0dpa_uninjured_batch1_rep2
+longLabel Fin_W_0dpa_uninjured_batch1_rep2
 visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
@@ -119,12 +119,12 @@ autoScale on
 configurable on
 windowingFunction maximum
 
-# W_0dpa_uninjured_batch1_rep3
-track W_0dpa_uninjured_batch1_rep3
+# Fin_W_0dpa_uninjured_batch1_rep3
+track Fin_W_0dpa_uninjured_batch1_rep3
 type bigWig
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Multiple_Regeneration/Fin_Paper1_ATACseq/W_0dpa_uninjured_batch1_rep3.rpkm.bw
-shortLabel W_0dpa_uninjured_batch1_rep3
-longLabel W_0dpa_uninjured_batch1_rep3
+shortLabel Fin_W_0dpa_uninjured_batch1_rep3
+longLabel Fin_W_0dpa_uninjured_batch1_rep3
 visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
@@ -134,12 +134,12 @@ autoScale on
 configurable on
 windowingFunction maximum
 
-# W_0dpa_uninjured_batch2_rep1
-track W_0dpa_uninjured_batch2_rep1
+# Fin_W_0dpa_uninjured_batch2_rep1
+track Fin_W_0dpa_uninjured_batch2_rep1
 type bigWig
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Multiple_Regeneration/Fin_Paper1_ATACseq/W_0dpa_uninjured_batch2_rep1.rpkm.bw
-shortLabel W_0dpa_uninjured_batch2_rep1
-longLabel W_0dpa_uninjured_batch2_rep1
+shortLabel Fin_W_0dpa_uninjured_batch2_rep1
+longLabel Fin_W_0dpa_uninjured_batch2_rep1
 visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
@@ -149,12 +149,12 @@ autoScale on
 configurable on
 windowingFunction maximum
 
-# W_0dpa_uninjured_batch2_rep2
-track W_0dpa_uninjured_batch2_rep2
+# Fin_W_0dpa_uninjured_batch2_rep2
+track Fin_W_0dpa_uninjured_batch2_rep2
 type bigWig
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Multiple_Regeneration/Fin_Paper1_ATACseq/W_0dpa_uninjured_batch2_rep2.rpkm.bw
-shortLabel W_0dpa_uninjured_batch2_rep2
-longLabel W_0dpa_uninjured_batch2_rep2
+shortLabel Fin_W_0dpa_uninjured_batch2_rep2
+longLabel Fin_W_0dpa_uninjured_batch2_rep2
 visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
@@ -164,12 +164,12 @@ autoScale on
 configurable on
 windowingFunction maximum
 
-# W_0dpa_uninjured_batch2_rep3
-track W_0dpa_uninjured_batch2_rep3
+# Fin_W_0dpa_uninjured_batch2_rep3
+track Fin_W_0dpa_uninjured_batch2_rep3
 type bigWig
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Multiple_Regeneration/Fin_Paper1_ATACseq/W_0dpa_uninjured_batch2_rep3.rpkm.bw
-shortLabel W_0dpa_uninjured_batch2_rep3
-longLabel W_0dpa_uninjured_batch2_rep3
+shortLabel Fin_W_0dpa_uninjured_batch2_rep3
+longLabel Fin_W_0dpa_uninjured_batch2_rep3
 visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
@@ -179,12 +179,12 @@ autoScale on
 configurable on
 windowingFunction maximum
 
-# W_1dpa_injured_batch2_rep1
-track W_1dpa_injured_batch2_rep1
+# Fin_W_1dpa_injured_batch2_rep1
+track Fin_W_1dpa_injured_batch2_rep1
 type bigWig
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Multiple_Regeneration/Fin_Paper1_ATACseq/W_1dpa_injured_batch2_rep1.rpkm.bw
-shortLabel W_1dpa_injured_batch2_rep1
-longLabel W_1dpa_injured_batch2_rep1
+shortLabel Fin_W_1dpa_injured_batch2_rep1
+longLabel Fin_W_1dpa_injured_batch2_rep1
 visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
@@ -194,12 +194,12 @@ autoScale on
 configurable on
 windowingFunction maximum
 
-# W_1dpa_injured_batch2_rep2
-track W_1dpa_injured_batch2_rep2
+# Fin_W_1dpa_injured_batch2_rep2
+track Fin_W_1dpa_injured_batch2_rep2
 type bigWig
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Multiple_Regeneration/Fin_Paper1_ATACseq/W_1dpa_injured_batch2_rep2.rpkm.bw
-shortLabel W_1dpa_injured_batch2_rep2
-longLabel W_1dpa_injured_batch2_rep2
+shortLabel Fin_W_1dpa_injured_batch2_rep2
+longLabel Fin_W_1dpa_injured_batch2_rep2
 visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
@@ -209,12 +209,12 @@ autoScale on
 configurable on
 windowingFunction maximum
 
-# W_1dpa_injured_batch2_rep3
-track W_1dpa_injured_batch2_rep3
+# Fin_W_1dpa_injured_batch2_rep3
+track Fin_W_1dpa_injured_batch2_rep3
 type bigWig
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Multiple_Regeneration/Fin_Paper1_ATACseq/W_1dpa_injured_batch2_rep3.rpkm.bw
-shortLabel W_1dpa_injured_batch2_rep3
-longLabel W_1dpa_injured_batch2_rep3
+shortLabel Fin_W_1dpa_injured_batch2_rep3
+longLabel Fin_W_1dpa_injured_batch2_rep3
 visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
@@ -224,12 +224,12 @@ autoScale on
 configurable on
 windowingFunction maximum
 
-# W_4dpa_injured_batch1_rep1
-track W_4dpa_injured_batch1_rep1
+# Fin_W_4dpa_injured_batch1_rep1
+track Fin_W_4dpa_injured_batch1_rep1
 type bigWig
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Multiple_Regeneration/Fin_Paper1_ATACseq/W_4dpa_injured_batch1_rep1.rpkm.bw
-shortLabel W_4dpa_injured_batch1_rep1
-longLabel W_4dpa_injured_batch1_rep1
+shortLabel Fin_W_4dpa_injured_batch1_rep1
+longLabel Fin_W_4dpa_injured_batch1_rep1
 visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
@@ -239,12 +239,12 @@ autoScale on
 configurable on
 windowingFunction maximum
 
-# W_4dpa_injured_batch1_rep2
-track W_4dpa_injured_batch1_rep2
+# Fin_W_4dpa_injured_batch1_rep2
+track Fin_W_4dpa_injured_batch1_rep2
 type bigWig
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Multiple_Regeneration/Fin_Paper1_ATACseq/W_4dpa_injured_batch1_rep2.rpkm.bw
-shortLabel W_4dpa_injured_batch1_rep2
-longLabel W_4dpa_injured_batch1_rep2
+shortLabel Fin_W_4dpa_injured_batch1_rep2
+longLabel Fin_W_4dpa_injured_batch1_rep2
 visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
@@ -254,12 +254,12 @@ autoScale on
 configurable on
 windowingFunction maximum
 
-# W_4dpa_injured_batch1_rep3
-track W_4dpa_injured_batch1_rep3
+# Fin_W_4dpa_injured_batch1_rep3
+track Fin_W_4dpa_injured_batch1_rep3
 type bigWig
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fushun/Multiple_Regeneration/Fin_Paper1_ATACseq/W_4dpa_injured_batch1_rep3.rpkm.bw
-shortLabel W_4dpa_injured_batch1_rep3
-longLabel W_4dpa_injured_batch1_rep3
+shortLabel Fin_W_4dpa_injured_batch1_rep3
+longLabel Fin_W_4dpa_injured_batch1_rep3
 visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
