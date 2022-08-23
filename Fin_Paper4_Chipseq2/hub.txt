@@ -1,6 +1,6 @@
 hub Fin_Chipseq_CyVerse
-shortLabel Chipseq
-longLabel Chipseq
+shortLabel Fin_Chipseq
+longLabel Fin_Chipseq
 genomesFile genomes.txt
 email fushun.chen@kit.edu
 descriptionUrl hub.html
