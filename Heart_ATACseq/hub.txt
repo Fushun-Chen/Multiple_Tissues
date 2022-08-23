@@ -1,6 +1,6 @@
 hub Heart_ATACseq_CyVerse
-shortLabel ATACseq
-longLabel ATACseq
+shortLabel Heart_ATACseq
+longLabel Heart_ATACseq
 genomesFile genomes.txt
 email fushun.chen@kit.edu
 descriptionUrl hub.html
