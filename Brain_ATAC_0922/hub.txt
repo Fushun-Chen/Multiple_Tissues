@@ -1,0 +1,6 @@
+hub Brain_ATACseq_CyVerse
+shortLabel Brain_ATACseq
+longLabel Brain_ATACseq
+genomesFile genomes.txt
+email fushun.chen@kit.edu
+descriptionUrl hub.html
