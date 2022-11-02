@@ -1,2 +1,2 @@
-genome danRer10
-trackDb danRer10/trackDb.txt
+genome danRer11
+trackDb danRer11/trackDb.txt
