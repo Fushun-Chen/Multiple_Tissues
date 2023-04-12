@@ -1,0 +1,6 @@
+hub Retinal_ATACseq_CyVerse
+shortLabel Retinal_ATACseq
+longLabel Retinal_ATACseq
+genomesFile genomes.txt
+email fushun.chen@kit.edu
+descriptionUrl hub.html
